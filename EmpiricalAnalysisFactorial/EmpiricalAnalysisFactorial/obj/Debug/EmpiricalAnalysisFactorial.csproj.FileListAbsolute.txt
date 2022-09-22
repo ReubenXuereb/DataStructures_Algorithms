@@ -1,0 +1,6 @@
+\\main\lect_redir$\andrewc\mydocs\visual studio 2013\Projects\EmpiricalAnalysisFactorial\EmpiricalAnalysisFactorial\bin\Debug\EmpiricalAnalysisFactorial.exe.config
+\\main\lect_redir$\andrewc\mydocs\visual studio 2013\Projects\EmpiricalAnalysisFactorial\EmpiricalAnalysisFactorial\bin\Debug\EmpiricalAnalysisFactorial.exe
+\\main\lect_redir$\andrewc\mydocs\visual studio 2013\Projects\EmpiricalAnalysisFactorial\EmpiricalAnalysisFactorial\bin\Debug\EmpiricalAnalysisFactorial.pdb
+\\main\lect_redir$\andrewc\mydocs\visual studio 2013\Projects\EmpiricalAnalysisFactorial\EmpiricalAnalysisFactorial\obj\Debug\EmpiricalAnalysisFactorial.csprojResolveAssemblyReference.cache
+\\main\lect_redir$\andrewc\mydocs\visual studio 2013\Projects\EmpiricalAnalysisFactorial\EmpiricalAnalysisFactorial\obj\Debug\EmpiricalAnalysisFactorial.exe
+\\main\lect_redir$\andrewc\mydocs\visual studio 2013\Projects\EmpiricalAnalysisFactorial\EmpiricalAnalysisFactorial\obj\Debug\EmpiricalAnalysisFactorial.pdb

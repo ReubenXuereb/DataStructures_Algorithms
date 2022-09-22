@@ -1,0 +1,20 @@
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.csproj.CoreCompileInputs.cache
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.pdb
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.exe.config
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.exe
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.pdb
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.csprojAssemblyReference.cache
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.csproj.CoreCompileInputs.cache
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.exe
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.pdb
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.csprojAssemblyReference.cache
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.exe
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\obj\Debug\Section 3 - Sorting Algorithms.pdb
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.exe.config
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.exe
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 3 - Sorting Algorithms\bin\Debug\Section 3 - Sorting Algorithms.pdb

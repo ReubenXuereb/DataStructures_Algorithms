@@ -1,0 +1,6 @@
+\\main\lect_redir$\kassandrac\mydocs\visual studio 2013\Projects\EmpiricalAnalysis_Stacks\EmpiricalAnalysis_Stacks\bin\Debug\EmpiricalAnalysis_Stacks.exe.config
+\\main\lect_redir$\kassandrac\mydocs\visual studio 2013\Projects\EmpiricalAnalysis_Stacks\EmpiricalAnalysis_Stacks\bin\Debug\EmpiricalAnalysis_Stacks.exe
+\\main\lect_redir$\kassandrac\mydocs\visual studio 2013\Projects\EmpiricalAnalysis_Stacks\EmpiricalAnalysis_Stacks\bin\Debug\EmpiricalAnalysis_Stacks.pdb
+\\main\lect_redir$\kassandrac\mydocs\visual studio 2013\Projects\EmpiricalAnalysis_Stacks\EmpiricalAnalysis_Stacks\obj\Debug\EmpiricalAnalysis_Stacks.csprojResolveAssemblyReference.cache
+\\main\lect_redir$\kassandrac\mydocs\visual studio 2013\Projects\EmpiricalAnalysis_Stacks\EmpiricalAnalysis_Stacks\obj\Debug\EmpiricalAnalysis_Stacks.exe
+\\main\lect_redir$\kassandrac\mydocs\visual studio 2013\Projects\EmpiricalAnalysis_Stacks\EmpiricalAnalysis_Stacks\obj\Debug\EmpiricalAnalysis_Stacks.pdb

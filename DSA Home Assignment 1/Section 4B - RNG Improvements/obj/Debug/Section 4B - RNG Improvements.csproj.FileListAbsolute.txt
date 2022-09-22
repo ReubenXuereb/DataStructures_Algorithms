@@ -1,0 +1,11 @@
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\obj\Debug\Section 4B - RNG Improvements.csprojAssemblyReference.cache
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\obj\Debug\Section 4B - RNG Improvements.csproj.CoreCompileInputs.cache
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\bin\Debug\Section 4B - RNG Improvements.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\bin\Debug\Section 4B - RNG Improvements.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\bin\Debug\Section 4B - RNG Improvements.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\bin\Debug\Section 4 - Random Number Generators.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\bin\Debug\Section 4 - Random Number Generators.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\bin\Debug\Section 4 - Random Number Generators.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\obj\Debug\Section 4B - RNG Improvements.csproj.CopyComplete
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\obj\Debug\Section 4B - RNG Improvements.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 4B - RNG Improvements\obj\Debug\Section 4B - RNG Improvements.pdb

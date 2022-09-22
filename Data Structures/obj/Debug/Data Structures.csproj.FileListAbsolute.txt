@@ -1,0 +1,6 @@
+C:\Users\rubxu\source\repos\Data Structures\Data Structures\obj\Debug\Data Structures.csprojAssemblyReference.cache
+C:\Users\rubxu\source\repos\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+C:\Users\rubxu\source\repos\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+C:\Users\rubxu\source\repos\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+C:\Users\rubxu\source\repos\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+C:\Users\rubxu\source\repos\Data Structures\Data Structures\obj\Debug\Data Structures.pdb

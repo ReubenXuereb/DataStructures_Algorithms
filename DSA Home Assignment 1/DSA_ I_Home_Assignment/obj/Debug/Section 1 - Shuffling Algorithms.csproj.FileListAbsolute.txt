@@ -1,0 +1,19 @@
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\Section 1 - Shuffling Algorithms.csproj.CoreCompileInputs.cache
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\DSA_ I_Home_Assignment.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\DSA_ I_Home_Assignment.pdb
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.exe.config
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.exe
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.pdb
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\Section 1 - Shuffling Algorithms.csproj.CoreCompileInputs.cache
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\DSA_ I_Home_Assignment.exe
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\DSA_ I_Home_Assignment.pdb
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.exe.config
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.exe
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\bin\Debug\DSA_ I_Home_Assignment.pdb
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\Section 1 - Shuffling Algorithms.csprojAssemblyReference.cache
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\Section 1 - Shuffling Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\DSA_ I_Home_Assignment.exe
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\DSA_ I_Home_Assignment\obj\Debug\DSA_ I_Home_Assignment.pdb

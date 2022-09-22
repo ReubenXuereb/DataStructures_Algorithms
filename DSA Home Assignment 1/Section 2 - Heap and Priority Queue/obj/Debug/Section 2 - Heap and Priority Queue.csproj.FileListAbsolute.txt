@@ -1,0 +1,20 @@
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.csproj.CoreCompileInputs.cache
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\2019_2020\Assignment 1 Home\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.pdb
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.exe.config
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.exe
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.pdb
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.csprojAssemblyReference.cache
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.csproj.CoreCompileInputs.cache
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.exe
+F:\Data Structures\2019_2020\Assignment 2 Home (Long)\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.pdb
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.exe.config
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.exe
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\bin\Debug\Section 2 - Heap and Priority Queue.pdb
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.csprojAssemblyReference.cache
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.csproj.CoreCompileInputs.cache
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.exe
+C:\Users\rubxu\Desktop\Semester 2\DSA\DSA_ I_Home_Assignment\Section 2 - Heap and Priority Queue\obj\Debug\Section 2 - Heap and Priority Queue.pdb

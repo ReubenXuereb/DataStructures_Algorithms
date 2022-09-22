@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 1 - Shuffling Algorithms", "DSA_ I_Home_Assignment\Section 1 - Shuffling Algorithms.csproj", "{F67F0D42-D07C-4CAE-B2D7-917ADAEF1AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 2 - Heap and Priority Queue", "Section 2 - Heap and Priority Queue\Section 2 - Heap and Priority Queue.csproj", "{7C5C2D0B-7E62-4C85-AF54-2608B1DC19A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 3 - Sorting Algorithms", "Section 3 - Sorting Algorithms\Section 3 - Sorting Algorithms.csproj", "{DFD50450-D337-4377-A5DD-60DBC5F6AC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 4 - Random Number Generators", "Section 4 - Random Number Generators\Section 4 - Random Number Generators.csproj", "{F8BEE16A-7B5D-48E8-8467-7CFAED47EB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67F0D42-D07C-4CAE-B2D7-917ADAEF1AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67F0D42-D07C-4CAE-B2D7-917ADAEF1AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67F0D42-D07C-4CAE-B2D7-917ADAEF1AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67F0D42-D07C-4CAE-B2D7-917ADAEF1AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5C2D0B-7E62-4C85-AF54-2608B1DC19A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5C2D0B-7E62-4C85-AF54-2608B1DC19A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5C2D0B-7E62-4C85-AF54-2608B1DC19A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5C2D0B-7E62-4C85-AF54-2608B1DC19A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD50450-D337-4377-A5DD-60DBC5F6AC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD50450-D337-4377-A5DD-60DBC5F6AC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD50450-D337-4377-A5DD-60DBC5F6AC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD50450-D337-4377-A5DD-60DBC5F6AC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BEE16A-7B5D-48E8-8467-7CFAED47EB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BEE16A-7B5D-48E8-8467-7CFAED47EB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BEE16A-7B5D-48E8-8467-7CFAED47EB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BEE16A-7B5D-48E8-8467-7CFAED47EB66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BAFA6E-0C62-464F-B22A-9CB220928937}
+	EndGlobalSection
+EndGlobal

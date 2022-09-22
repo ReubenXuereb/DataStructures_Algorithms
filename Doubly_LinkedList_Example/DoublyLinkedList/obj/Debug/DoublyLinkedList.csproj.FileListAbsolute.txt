@@ -1,0 +1,12 @@
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\LinkedList_Example\LinkedList_Example - Copy\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\LinkedList_Example\LinkedList_Example - Copy\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\LinkedList_Example\LinkedList_Example - Copy\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\LinkedList_Example\LinkedList_Example - Copy\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\LinkedList_Example\LinkedList_Example - Copy\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\LinkedList_Example\LinkedList_Example - Copy\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\Doubly_LinkedList_Example\Doubly_LinkedList_Example\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\Doubly_LinkedList_Example\Doubly_LinkedList_Example\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\Doubly_LinkedList_Example\Doubly_LinkedList_Example\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\Doubly_LinkedList_Example\Doubly_LinkedList_Example\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\Doubly_LinkedList_Example\Doubly_LinkedList_Example\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+\\main\lect_redir$\kassandrac\dtop\Data Structures\Evening Course\Week 3\Doubly_LinkedList_Example\Doubly_LinkedList_Example\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
